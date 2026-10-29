@@ -1,0 +1,161 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz"
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png" group-title="RTVE",La 1
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/la1.mpd
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-2-es.png" group-title="RTVE",La 2
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/la2.mpd
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena-3-es.png" group-title="Atresmedia",Antena 3
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/a3.mpd
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cuatro-es.png" group-title="Mediaset",Cuatro
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/cuatro.mpd
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/telecinco-es.png" group-title="Mediaset",Telecinco
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/t5.mpd
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="laSexta" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/lasexta-es.png" group-title="Atresmedia",laSexta
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/la6.mpd
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/nova-es.png" group-title="Atresmedia",Nova
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/nova.mpd
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/neox-es.png" group-title="Atresmedia",Neox
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/neox.mpd
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mega-es.png" group-title="Atresmedia",Mega
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/mega.mpd
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png" group-title="Atresmedia",Atreseries
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/a3s.mpd
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fdf-es.png" group-title="Mediaset",FDF
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/fdf.mpd
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/divinity-es.png" group-title="Mediaset",Divinity
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/dvnty.mpd
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/energy-es.png" group-title="Mediaset",Energy
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/energy.mpd
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/be-mad-tv-es.png" group-title="Mediaset",Be Mad
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/bmad.mpd
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/boing-es.png" group-title="Mediaset",Boing
+https://cdn.jsdelivr.net/gh/diegogggoop/tdt720@main/boing.mpd
+#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/clan-es.png" group-title="RTVE",Clan
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/clan.mpd
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tdp-es.png" group-title="RTVE",Teledeporte
+https://cdn.jsdelivr.net/gh/FreakinGuns/listacanalestdtiptv@main/manifests/tdp.mpd
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24h" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/24h-es.png" group-title="RTVE",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-name="Real Madrid TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-name="Somos Cine" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Cine y series",Somos Cine
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
+#EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-name="Cine Western" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Cine y series",Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Cine y series",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Cine y series",MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Todo Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Cine y series",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Español" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Cine y series",Runtime Español
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-name="Cine Romántico" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Cine y series",Cine Romántico
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-name="Rakuten Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Cine (inglés)",Rakuten Action Movies
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-name="Rakuten Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Cine (inglés)",Rakuten Top Movies
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-name="Rakuten Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Cine (inglés)",Rakuten Drama Movies
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-name="Rakuten Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Cine (inglés)",Rakuten Family Movies
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-name="Rakuten Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Cine (inglés)",Rakuten Comedy Movies
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RTVE_Cocina.TV" tvg-name="Cocina" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Temáticos",Cocina
+https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png" group-title="Temáticos",Red Bull TV
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" group-title="Temáticos",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es@HD" tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png" group-title="Autonómicos",Telemadrid
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Autonómicos",TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-id="C33.TV" tvg-name="33" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Autonómicos",33
+https://directes-tv-es.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-name="Esport3" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Autonómicos",Esport3
+https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="SX3.TV" tvg-name="SX3" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Autonómicos",SX3
+https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Autonómicos",Canal Sur
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur 2" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Autonómicos",Canal Sur 2
+https://rtva-channel22.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-name="ETB 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Autonómicos",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Autonómicos",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVGA.TV" tvg-name="TVG" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Autonómicos",TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="TVG2.TV" tvg-name="TVG 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Autonómicos",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-name="À Punt" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="Autonómicos",À Punt
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-id="CMMTV.es@HD" tvg-name="CMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="Autonómicos",CMM
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TVCanaria.es" tvg-name="TV Canaria" tvg-logo="https://i.imgur.com/68LNS8e.png" group-title="Autonómicos",TV Canaria
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Autonómicos",Canal Extremadura
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+#EXTINF:-1 tvg-id="PopularMU.TV" tvg-name="Popular TV Murcia" tvg-logo="https://pbs.twimg.com/profile_images/2049481726964187136/w67cmHGs_200x200.jpg" group-title="Autonómicos",Popular TV Murcia
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="EE. UU.",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="EE. UU.",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-name="Bloomberg US" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="EE. UU.",Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="EE. UU.",LiveNOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="EE. UU.",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="EE. UU.",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Internacional",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Internacional",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 Français" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Internacional",France 24 Français
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Internacional",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Internacional",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" group-title="Internacional",Euronews Español
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" group-title="Internacional",Euronews Italiano
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVE_INTER.TV" tvg-name="TVE Internacional" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="Internacional",TVE Internacional
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Internacional",Sky News
+https://dqco14bu26p3z.cloudfront.net/30505/89006005/hls/master.m3u8?ads.xumo_channelId=89006005&ads.xumo_streamId=89006005
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Internacional",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Originals" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" group-title="Internacional",Bloomberg Originals
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Internacional",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJQ.TV" tvg-name="Al Jazeera Arabic" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200" group-title="Internacional",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://graph.facebook.com/trtworld/picture?width=200&height=200" group-title="Internacional",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="Internacional",NHK World Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="Internacional",Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24NEWS English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="Internacional",i24NEWS English
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="Internacional",Africanews
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Internacional",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="Internacional",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Internacional",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Australia" tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="Internacional",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Internacional",Sky News Arabia
+https://stream.skynewsarabia.com/hls/index.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Internacional",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
